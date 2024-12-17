@@ -1,0 +1,9 @@
+{
+  "sql_server": {
+    "username": "sa",
+    "password": "dbsvil",
+    "server": "(localdb)\\MSSQLLocalDB",
+    "database": "DemoSQLAlchemyPython",
+    "driver": "DemoSqlAlchemy"
+  }
+}
